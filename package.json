@@ -1,9 +1,9 @@
 {
-  "name": "assistant-bot",
+  "name": "jarvis",
   "version": "0.0.0",
   "private": true,
   "author": "Kosuke Sugano",
-  "description": "my assistant",
+  "description": "my assistant bot",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
